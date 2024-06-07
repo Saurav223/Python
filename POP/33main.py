@@ -1,0 +1,2 @@
+import ifname
+ifname.welcome()
